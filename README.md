@@ -1,7 +1,10 @@
-# Mohsen's Classic Aracade Game
+# Mohsen's Classic Arcade Game
 
 In my Front End Udacity nanodegree, I had to code a classic arcade game based on the game Frogger. The point of the game is to get your character from the grass over the road and into the water. The challenge is to avoid the bugs that travel on the road. If a bug is touched, the character is reset back at the beginning. Upon reaching the water, the user is also reset back to the beginning.
 
+## Live version
+play at:
+https://mohsen-94.github.io/HTML-Canvas-Game/
 
 ## Installing from Source
 
